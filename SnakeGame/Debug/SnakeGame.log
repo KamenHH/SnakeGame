@@ -1,0 +1,41 @@
+﻿  main.c
+d:\101engineering\courseprojects\snakegame\snakegame\main.c(127): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+d:\101engineering\courseprojects\snakegame\snakegame\main.c(167): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+d:\101engineering\courseprojects\snakegame\snakegame\main.c(152): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+d:\101engineering\courseprojects\snakegame\snakegame\main.c(167): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+d:\101engineering\courseprojects\snakegame\snakegame\main.c(151): warning C4101: 'c': unreferenced local variable
+d:\101engineering\courseprojects\snakegame\snakegame\main.c(179): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+d:\101engineering\courseprojects\snakegame\snakegame\main.c(179): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+d:\101engineering\courseprojects\snakegame\snakegame\main.c(191): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+d:\101engineering\courseprojects\snakegame\snakegame\main.c(211): warning C4101: 'Grid': unreferenced local variable
+d:\101engineering\courseprojects\snakegame\snakegame\main.c(314): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\101engineering\courseprojects\snakegame\snakegame\main.c(315): warning C4101: 'i': unreferenced local variable
+d:\101engineering\courseprojects\snakegame\snakegame\main.c(345): warning C4101: 'k': unreferenced local variable
+d:\101engineering\courseprojects\snakegame\snakegame\main.c(395): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(458): note: see declaration of 'kbhit'
+d:\101engineering\courseprojects\snakegame\snakegame\main.c(397): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+d:\101engineering\courseprojects\snakegame\snakegame\main.c(392): warning C4101: 'c': unreferenced local variable
+d:\101engineering\courseprojects\snakegame\snakegame\main.c(540): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+d:\101engineering\courseprojects\snakegame\snakegame\main.c(565): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+d:\101engineering\courseprojects\snakegame\snakegame\main.c(595): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+d:\101engineering\courseprojects\snakegame\snakegame\main.c(614): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+d:\101engineering\courseprojects\snakegame\snakegame\main.c(619): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+d:\101engineering\courseprojects\snakegame\snakegame\main.c(631): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+d:\101engineering\courseprojects\snakegame\snakegame\main.c(634): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+d:\101engineering\courseprojects\snakegame\snakegame\main.c(146): warning C4715: 'PrintMenu': not all control paths return a value
+d:\101engineering\courseprojects\snakegame\snakegame\main.c(207): warning C4715: 'SetDifficulty': not all control paths return a value
+d:\101engineering\courseprojects\snakegame\snakegame\main.c(309): warning C4715: 'DifficultyToString': not all control paths return a value
+d:\101engineering\courseprojects\snakegame\snakegame\main.c(579): warning C4715: 'RestartGame': not all control paths return a value
+  SnakeGame.vcxproj -> D:\101Engineering\CourseProjects\SnakeGame\Debug\SnakeGame.exe
